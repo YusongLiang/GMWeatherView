@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GMWeatherView.iml" filepath="$PROJECT_DIR$/GMWeatherView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmweatherviewlib/gmweatherviewlib.iml" filepath="$PROJECT_DIR$/gmweatherviewlib/gmweatherviewlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+    </modules>
+  </component>
+</project>

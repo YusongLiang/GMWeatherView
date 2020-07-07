@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WeatherView">
+        <attr name="type" format="enum">
+            <enum name="none" value="0" />
+            <enum name="sunny" value="1" />
+            <enum name="cloudy" value="2" />
+            <enum name="overcast" value="3" />
+            <enum name="sandy" value="4" />
+            <enum name="snowy" value="5" />
+            <enum name="rainy" value="6" />
+            <enum name="foggy" value="7" />
+            <enum name="hazy" value="8" />
+        </attr>
+    </declare-styleable>
+</resources>
